@@ -2,7 +2,7 @@ import React from "react";
 
 import Birthday from "./birthday remainder/Birthday";
 
-import Index from "./Grocery-Bud/Index";
+import Index from "./Cocktails/Index";
 
 const App = () => {
   return (
